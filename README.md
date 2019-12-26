@@ -4,7 +4,7 @@
 ## To run this project:
 
 - Clone this project.
-	git clone https://github.com/danubiobwm/
+	https://github.com/danubiobwm/react_bootStrap.git
 
 - Run yarn
 
